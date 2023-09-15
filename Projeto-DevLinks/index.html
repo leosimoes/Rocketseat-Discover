@@ -8,15 +8,19 @@
 
     <link rel="shortcut icon" href="#"/>
     <link rel="stylesheet" href="./style.css"/>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:wght@400;500&display=swap"/>
 
     <title>DevLinks</title>
 </head>
-<body>
+<body class="light">
     <div id="container">
         <div id="profile">
             <img src="./assets/avatar.png" alt="Foto do avatar"/>
             <div>@maykbrito</div>
+        </div>
+        <div id="switch">
+            <button></button>
+            <span></span>
         </div>
         <ul>
             <li>
@@ -29,6 +33,25 @@
                 <a href="https://www.rocketseat.com.br/discover" target="_blank">RocketSeat - Discover</a>
             </li>
         </ul>
+        <div id="social-links">
+            <a href="https://github.com/maykbrito" target="_blank">
+                <ion-icon name="logo-github"></ion-icon>
+            </a>
+            <a href="https://www.instagram.com/maykbrito/?hl=pt" target="_blank">
+                <ion-icon name="logo-instagram"></ion-icon>
+            </a>
+            <a href="https://www.youtube.com/maykbrito" target="_blank">
+                <ion-icon name="logo-youtube"></ion-icon>
+            </a>
+            <a href="https://br.linkedin.com/in/maykbrito" target="_blank">
+                <ion-icon name="logo-linkedin"></ion-icon>
+            </a>
+        </div>
+        <footer>
+            <p>Feito com ♥ pela <a href="https://www.rocketseat.com.br/">Rocketseat</a></p>
+        </footer>
     </div>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 </body>
 </html>

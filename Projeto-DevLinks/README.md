@@ -8,5 +8,11 @@ Layout do projeto no Figma: https://www.figma.com/community/file/118742202228894
 ### Parte 1
 ![Projeto-DevLinks-Parte-1](Projeto-DevLinks-Parte1.jpg)
 
+
+### Parte 2
+![Projeto-DevLinks-Parte-2-A](Projeto-DevLinks-Parte2-a.jpg)
+
+![Projeto-DevLinks-Parte-2-B](Projeto-DevLinks-Parte2-b.jpg)
+
 ## Referências
 RocketSeat - Discover: https://www.rocketseat.com.br/discover , acessado em 14/09/2023.
