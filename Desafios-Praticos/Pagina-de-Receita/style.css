@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EAEAEA;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 1%;
+}
+
+main {
+    background-color: #FFFFFF;
+    width: 60%;
+    height: 80%;
+    margin: auto;
+    padding: 20px; /* Adicione margens internas para dar espaço ao conteúdo */
+    box-sizing: border-box; /* Inclua margens e bordas no dimensionamento da largura */
+    min-height: 90vh; /* Defina uma altura mínima para garantir que <main> tenha espaço suficiente */
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 90%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+figcaption {
+    width: 95%;
+    color: #8F8F8F;
+    text-align: right;
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 28px;
+    text-align: center;
+    color: #1B1B1B;
+}
+
+h2 {
+    font-size: 16px;
+    text-align: center;
+    color: #1B1B1B;
+}
+
+li {
+    color: #39393A;
+    font-size: 16px;
+}
+
+p {
+    color: #39393A;
+    text-align: center;
+    font-size: 16px;
+}
+
+footer {
+    color: #8F8F8F;
+    font-size: 12px;
+}

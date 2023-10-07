@@ -2,7 +2,7 @@
 Desafios do programa Discover da RocketSeat.
 
 ## Desafios
-
+- Página de Receita
 
 ## Referências
 RocketSeat - Discover: 
