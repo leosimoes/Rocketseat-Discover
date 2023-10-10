@@ -2,6 +2,7 @@
 Desafios do programa Discover da RocketSeat.
 
 ## Desafios
+- Formulário de Contato
 - Glossário
 - Lista de Compras
 - Página de Receita
