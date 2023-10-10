@@ -43,7 +43,9 @@ Após uns 5 minutos, o endereço da página será https://<nome_usuario>.github.
 - https://caniuse.com/
 - https://ionic.io/ionicons
 - https://codepen.io/
-
+- https://unsplash.com/pt-br
+- https://www.pexels.com/pt-br/
+- https://pixabay.com/pt/
 
 ## Referências
 RocketSeat - Discover: https://www.rocketseat.com.br/discover , acessado em 15/09/2023.
