@@ -6,6 +6,7 @@ Desafios do programa Discover da RocketSeat.
 - Glossário
 - Lista de Compras
 - Página de Receita
+- Quiz
 
 ## Referências
 RocketSeat - Discover: 
